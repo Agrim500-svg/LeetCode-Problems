@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
