@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1816-truncate-sentence](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -49,4 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
