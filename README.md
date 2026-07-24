@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
