@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0561-array-partition](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
