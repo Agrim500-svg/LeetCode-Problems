@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
