@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3099-harshad-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3516-find-closest-person/) | Easy |
