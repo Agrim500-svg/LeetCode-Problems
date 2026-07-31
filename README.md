@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1534-count-good-triplets](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1534-count-good-triplets/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
@@ -147,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
