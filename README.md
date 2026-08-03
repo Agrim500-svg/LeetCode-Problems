@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1051-height-checker](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
