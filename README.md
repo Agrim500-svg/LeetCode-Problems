@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3516-find-closest-person/) | Easy |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
