@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
