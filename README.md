@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0169-majority-element](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1051-height-checker](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1051-height-checker/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -219,4 +221,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
