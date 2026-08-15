@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3492-maximum-containers-on-a-ship](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3516-find-closest-person/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Heap (Priority Queue)
