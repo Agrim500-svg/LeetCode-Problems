@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
