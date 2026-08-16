@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0577-employee-bonus](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0577-employee-bonus/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
