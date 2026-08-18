@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0182-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
+| [0620-not-boring-movies](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
