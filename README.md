@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3467-transform-array-by-parity](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3668-restore-finishing-order](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2956-find-common-elements-between-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3668-restore-finishing-order](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
