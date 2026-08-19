@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
