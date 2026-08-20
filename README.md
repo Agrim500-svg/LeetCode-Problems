@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Number Theory
