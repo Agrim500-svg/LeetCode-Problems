@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0709-to-lower-case](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1528-shuffle-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
