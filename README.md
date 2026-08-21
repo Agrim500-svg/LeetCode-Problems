@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
