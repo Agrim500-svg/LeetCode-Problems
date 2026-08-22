@@ -9,8 +9,8 @@ class Solution {
             sum+=d;
             prd*=d;
         }
-        System.out.println(sum);
-        System.out.println(prd);
+        // System.out.println(sum);
+        // System.out.println(prd);
         if(number%(sum+prd)!=0){
             return false;
         }else{
