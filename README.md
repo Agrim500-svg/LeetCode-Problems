@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
