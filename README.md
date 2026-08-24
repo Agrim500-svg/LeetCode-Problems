@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0169-majority-element](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -155,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0771-jewels-and-stones/) | Easy |
@@ -181,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -226,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
