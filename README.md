@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
