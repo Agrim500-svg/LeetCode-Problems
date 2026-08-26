@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2119-a-number-after-a-double-reversal](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2235-add-two-integers/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
