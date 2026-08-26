@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Heap (Priority Queue)
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-number-of-common-factors](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
