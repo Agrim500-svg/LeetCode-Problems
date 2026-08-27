@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2367-number-of-arithmetic-triplets](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
