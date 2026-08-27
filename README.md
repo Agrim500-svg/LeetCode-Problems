@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
