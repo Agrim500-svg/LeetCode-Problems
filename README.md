@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1925-count-square-sum-triples/) | Easy |
