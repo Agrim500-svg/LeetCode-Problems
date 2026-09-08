@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -330,4 +331,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
