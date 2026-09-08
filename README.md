@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Heap (Priority Queue)
