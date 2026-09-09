@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 ## Database
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
