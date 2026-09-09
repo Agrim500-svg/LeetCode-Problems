@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0258-add-digits](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0507-perfect-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0507-perfect-number/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 ## Prefix Sum
