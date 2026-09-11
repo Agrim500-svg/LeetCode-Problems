@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
