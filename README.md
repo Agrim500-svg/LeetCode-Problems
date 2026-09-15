@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Brainteaser
@@ -393,4 +395,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
