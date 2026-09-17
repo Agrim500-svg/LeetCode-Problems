@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
+| [0319-bulb-switcher](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0319-bulb-switcher/) | Medium |
 | [0342-power-of-four](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0319-bulb-switcher/) | Medium |
 | [1025-divisor-game](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Game Theory
