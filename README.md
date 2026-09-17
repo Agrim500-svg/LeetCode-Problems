@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
