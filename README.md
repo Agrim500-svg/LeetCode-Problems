@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0400-nth-digit](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0507-perfect-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1025-divisor-game](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
