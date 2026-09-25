@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
@@ -409,10 +410,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0622-design-circular-queue/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0622-design-circular-queue/) | Medium |
 ## Sliding Window
