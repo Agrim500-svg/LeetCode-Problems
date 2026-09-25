@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
