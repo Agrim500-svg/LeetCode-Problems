@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1025-divisor-game](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Brainteaser
@@ -388,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
