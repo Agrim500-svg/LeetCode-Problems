@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
@@ -488,4 +490,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Agrim500-svg/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
